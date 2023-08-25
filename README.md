@@ -21,9 +21,6 @@ Boas-vindas ao repositório do projeto `Regra de Progressão`.
 
 <details>
 
-
-<details>
-
 ## Requisitos do projeto
 
 ### 1 - Cadastrar atividades avaliativas
