@@ -17,6 +17,33 @@ Boas-vindas ao repositório do projeto `Regra de Progressão`.
 
     - `mvn install`
 
+<details>
+  <summary>👨‍💻 O que foi desenvolvido</summary><br />
+
+Descubra seu caminho para o sucesso com a Trybe!
+
+Na Trybe, uma escola inovadora, nossas avaliações são conduzidas em períodos de 21 dias, repletos de desafios e oportunidades de aprendizado. Cada período é composto de uma variedade de seções instigantes, abrangendo conteúdos teóricos e atividades práticas que avaliam o seu progresso. Projetos empolgantes, exercícios envolventes, quizzes instigantes e atividades de carreira, além de propor situações reais de mercado para o desenvolvimento de habilidades pessoais, compõem a trilha para o seu crescimento profissional.
+
+A cada período, o objetivo da pessoa estudante é alcançar 85% dos pontos adiquiridos nas atividades avaliativas. Cada uma dessas atividades vale até 100%, porém cada atividade com um peso diferente. Isto é, a nota final é uma média ponderada de todas as atividades avaliativas do período. É com essa pontuação que você avança na formação, alcançando novos patamares de conhecimento e habilidades.
+
+Ao final de cada período, duas possibilidades se abrem diante de você: a Aprovação ou a Reprovação. Seu desempenho determinará qual caminho seguir. Atingindo a pontuação mínima exigida para o período, você conquista a Aprovação, avançando para o próximo período e prosseguindo com sua turma. É um passo à frente em direção ao seu sucesso!
+
+Porém, caso não alcance a pontuação mínima, não se preocupe! A Reprovação não é um obstáculo, mas uma oportunidade de aprimoramento. Você poderá refazer o mesmo período na próxima turma disponível, fortalecendo seus conhecimentos e suas habilidades até alcançar a Aprovação desejada.
+
+E agora, a grande novidade! Para facilitar sua jornada e auxiliar na gestão das atividades avaliativas, iremos implementar um programa em Java com uma interface intuitiva no terminal, que permitirá:
+
+a. Cadastrar atividades avaliativas para o período, seja exercícios ou projetos. Assim, você terá um controle completo sobre suas tarefas e metas.
+
+b. Inserir as notas dos exercícios e projetos cadastrados para o período. O programa calculará automaticamente o percentual alcançado, revelando seu desempenho de forma nítida e objetiva.
+
+c. Com base no percentual alcançado, você descobrirá se foi aprovado ou reprovado. A mágica acontece quando você supera o limite de 85%. É a sua passagem para o próximo período, uma conquista a ser comemorada!
+
+Chegou a hora de embarcar nesse projeto desafiador e inspirador na Trybe! O programa em Java será seu aliado nessa caminhada, tornando seu aprendizado ainda mais dinâmico e empolgante.
+
+Prepare-se para abraçar o futuro e transformar sua vida. Aventure-se, aprenda e alcance o sucesso com a gente!
+
+</details>
+
 
 ## Requisitos do projeto
 
