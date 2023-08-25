@@ -17,7 +17,6 @@ Boas-vindas ao repositório do projeto `Regra de Progressão`.
 
     - `mvn install`
 
-</details>
 
 ## Requisitos do projeto
 
